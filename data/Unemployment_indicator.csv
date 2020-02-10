@@ -1,0 +1,232 @@
+Indicator,Year,Geo_Group,Geo_ID,Number,Percent
+Unemployment,2012-2016,Rogers Park,1,"2,860",8.9
+Unemployment,2012-2016,West Ridge,2,"3,418",9.2
+Unemployment,2012-2016,Uptown,3,"2,971",8.3
+Unemployment,2012-2016,Lincoln Square,4,"1,651",6.2
+Unemployment,2012-2016,North Center,5,922,4.2
+Unemployment,2012-2016,Lakeview,6,"2,399",3.2
+Unemployment,2012-2016,Lincoln Park,7,"1,602",3.5
+Unemployment,2012-2016,Near North Side,8,"2,971",5.0
+Unemployment,2012-2016,Edison Park,9,265,4.1
+Unemployment,2012-2016,Norwood Park,10,"1,215",5.6
+Unemployment,2012-2016,Jefferson Park,11,"1,119",7.4
+Unemployment,2012-2016,Forest Glen,12,498,5.1
+Unemployment,2012-2016,North Park,13,784,8.5
+Unemployment,2012-2016,Albany Park,14,"2,339",7.9
+Unemployment,2012-2016,Portage Park,15,"2,939",7.9
+Unemployment,2012-2016,Irving Park,16,"1,905",6.0
+Unemployment,2012-2016,Dunning,17,"1,311",5.6
+Unemployment,2012-2016,Montclare,18,469,7.3
+Unemployment,2012-2016,Belmont Cragin,19,"4,408",10.8
+Unemployment,2012-2016,Hermosa,20,"1,091",8.5
+Unemployment,2012-2016,Avondale,21,"1,401",6.7
+Unemployment,2012-2016,Logan Square,22,"2,316",5.0
+Unemployment,2012-2016,Humboldt Park,23,"3,665",14.7
+Unemployment,2012-2016,West Town,24,"3,095",5.3
+Unemployment,2012-2016,Austin,25,"7,364",17.7
+Unemployment,2012-2016,West Garfield Park,26,"1,082",18.8
+Unemployment,2012-2016,East Garfield Park,27,"1,370",18.3
+Unemployment,2012-2016,Near West Side,28,"3,512",9.1
+Unemployment,2012-2016,North Lawndale,29,"2,822",21.7
+Unemployment,2012-2016,South Lawndale,30,"2,732",9.6
+Unemployment,2012-2016,Lower West Side,31,"1,661",9.3
+Unemployment,2012-2016,Loop,32,"1,172",5.0
+Unemployment,2012-2016,Near South Side,33,599,3.7
+Unemployment,2012-2016,Armour Square,34,806,12.1
+Unemployment,2012-2016,Douglas,35,"1,580",16.0
+Unemployment,2012-2016,Oakland,36,679,21.2
+Unemployment,2012-2016,Fuller Park,37,265,28.6
+Unemployment,2012-2016,Grand Boulevard,38,"2,218",21.2
+Unemployment,2012-2016,Kenwood,39,"1,180",12.9
+Unemployment,2012-2016,Washington Park,40,"1,314",26.7
+Unemployment,2012-2016,Hyde Park,41,939,6.7
+Unemployment,2012-2016,Woodlawn,42,"1,843",18.2
+Unemployment,2012-2016,South Shore,43,"4,613",20.8
+Unemployment,2012-2016,Chatham,44,"2,868",19.1
+Unemployment,2012-2016,Avalon Park,45,"1,042",24.2
+Unemployment,2012-2016,South Chicago,46,"2,779",22.1
+Unemployment,2012-2016,Burnside,47,189,18.4
+Unemployment,2012-2016,Calumet Heights,48,911,14.4
+Unemployment,2012-2016,Roseland,49,"4,821",26.0
+Unemployment,2012-2016,Pullman,50,696,20.3
+Unemployment,2012-2016,South Deering,51,"1,605",25.4
+Unemployment,2012-2016,East Side,52,"2,052",18.3
+Unemployment,2012-2016,West Pullman,53,"3,570",24.9
+Unemployment,2012-2016,Riverdale,54,951,36.9
+Unemployment,2012-2016,Hegewisch,55,289,6.3
+Unemployment,2012-2016,Garfield Ridge,56,"1,813",10.1
+Unemployment,2012-2016,Archer Heights,57,663,9.9
+Unemployment,2012-2016,Brighton Park,58,"2,397",11.5
+Unemployment,2012-2016,McKinley Park,59,"1,009",12.5
+Unemployment,2012-2016,Bridgeport,60,"1,797",9.9
+Unemployment,2012-2016,New City,61,"3,923",20.9
+Unemployment,2012-2016,West Elsdon,62,"1,200",12.5
+Unemployment,2012-2016,Gage Park,63,"3,031",15.6
+Unemployment,2012-2016,Clearing,64,"1,355",10.1
+Unemployment,2012-2016,West Lawn,65,"2,230",13.4
+Unemployment,2012-2016,Chicago Lawn,66,"5,657",21.9
+Unemployment,2012-2016,West Englewood,67,"4,326",33.6
+Unemployment,2012-2016,Englewood,68,"3,585",35.3
+Unemployment,2012-2016,Greater Grand Crossing,69,"3,428",23.9
+Unemployment,2012-2016,Ashburn,70,"2,869",12.8
+Unemployment,2012-2016,Auburn Gresham,71,"4,876",23.6
+Unemployment,2012-2016,Beverly,72,714,6.6
+Unemployment,2012-2016,Washington Heights,73,"2,440",18.6
+Unemployment,2012-2016,Mount Greenwood,74,433,4.4
+Unemployment,2012-2016,Morgan Park,75,"1,535",11.2
+Unemployment,2012-2016,O'Hare,76,928,8.0
+Unemployment,2012-2016,Edgewater,77,"2,366",6.9
+Unemployment,2011-2015,Rogers Park,1,3093,9.8
+Unemployment,2011-2015,West Ridge,2,3190,8.8
+Unemployment,2011-2015,Uptown,3,3472,9.8
+Unemployment,2011-2015,Lincoln Square,4,1917,7.2
+Unemployment,2011-2015,North Center,5,943,4.2
+Unemployment,2011-2015,Lakeview,6,2691,3.7
+Unemployment,2011-2015,Lincoln Park,7,1901,4.2
+Unemployment,2011-2015,Near North Side,8,3717,6.3
+Unemployment,2011-2015,Edison Park,9,317,5.0
+Unemployment,2011-2015,Norwood Park,10,1530,6.9
+Unemployment,2011-2015,Jefferson Park,11,1520,10.2
+Unemployment,2011-2015,Forest Glen,12,574,6.1
+Unemployment,2011-2015,North Park,13,849,9.1
+Unemployment,2011-2015,Albany Park,14,2703,9.1
+Unemployment,2011-2015,Portage Park,15,3490,9.3
+Unemployment,2011-2015,Irving Park,16,2156,6.8
+Unemployment,2011-2015,Dunning,17,1694,7.2
+Unemployment,2011-2015,Montclare,18,694,10.8
+Unemployment,2011-2015,Belmont Cragin,19,4992,12.3
+Unemployment,2011-2015,Hermosa,20,1279,9.6
+Unemployment,2011-2015,Avondale,21,1668,7.8
+Unemployment,2011-2015,Logan Square,22,2762,6.0
+Unemployment,2011-2015,Humboldt Park,23,4213,17.4
+Unemployment,2011-2015,West Town,24,3722,6.3
+Unemployment,2011-2015,Austin,25,8110,19.5
+Unemployment,2011-2015,West Garfield Park,26,1016,17.8
+Unemployment,2011-2015,East Garfield Park,27,1429,20.3
+Unemployment,2011-2015,Near West Side,28,3844,10.0
+Unemployment,2011-2015,North Lawndale,29,2886,23.4
+Unemployment,2011-2015,South Lawndale,30,3846,13.2
+Unemployment,2011-2015,Lower West Side,31,2098,11.4
+Unemployment,2011-2015,Loop,32,1202,5.3
+Unemployment,2011-2015,Near South Side,33,583,3.8
+Unemployment,2011-2015,Armour Square,34,1074,15.4
+Unemployment,2011-2015,Douglas,35,1490,15.5
+Unemployment,2011-2015,Oakland,36,678,21.5
+Unemployment,2011-2015,Fuller Park,37,317,31.7
+Unemployment,2011-2015,Grand Boulevard,38,2381,22.6
+Unemployment,2011-2015,Kenwood,39,1373,14.9
+Unemployment,2011-2015,Washington Park,40,1578,31.8
+Unemployment,2011-2015,Hyde Park,41,1123,7.9
+Unemployment,2011-2015,Woodlawn,42,2382,22.4
+Unemployment,2011-2015,South Shore,43,5067,22.4
+Unemployment,2011-2015,Chatham,44,3043,20.3
+Unemployment,2011-2015,Avalon Park,45,1008,22.3
+Unemployment,2011-2015,South Chicago,46,2709,21.8
+Unemployment,2011-2015,Burnside,47,234,21.5
+Unemployment,2011-2015,Calumet Heights,48,1094,16.9
+Unemployment,2011-2015,Roseland,49,4586,25.3
+Unemployment,2011-2015,Pullman,50,656,19.4
+Unemployment,2011-2015,South Deering,51,1767,25.3
+Unemployment,2011-2015,East Side,52,1914,17.0
+Unemployment,2011-2015,West Pullman,53,3475,24.8
+Unemployment,2011-2015,Riverdale,54,960,40.8
+Unemployment,2011-2015,Hegewisch,55,397,9.0
+Unemployment,2011-2015,Garfield Ridge,56,2087,11.4
+Unemployment,2011-2015,Archer Heights,57,788,11.9
+Unemployment,2011-2015,Brighton Park,58,2721,13.2
+Unemployment,2011-2015,McKinley Park,59,1136,13.8
+Unemployment,2011-2015,Bridgeport,60,2118,11.2
+Unemployment,2011-2015,New City,61,4137,22.0
+Unemployment,2011-2015,West Elsdon,62,1369,14.8
+Unemployment,2011-2015,Gage Park,63,3157,15.9
+Unemployment,2011-2015,Clearing,64,1365,10.2
+Unemployment,2011-2015,West Lawn,65,2211,13.5
+Unemployment,2011-2015,Chicago Lawn,66,5588,21.9
+Unemployment,2011-2015,West Englewood,67,4622,34.8
+Unemployment,2011-2015,Englewood,68,3583,36.0
+Unemployment,2011-2015,Greater Grand Crossing,69,3560,24.9
+Unemployment,2011-2015,Ashburn,70,2981,13.6
+Unemployment,2011-2015,Auburn Gresham,71,5234,26.0
+Unemployment,2011-2015,Beverly,72,784,7.2
+Unemployment,2011-2015,Washington Heights,73,2594,19.7
+Unemployment,2011-2015,Mount Greenwood,74,672,7.1
+Unemployment,2011-2015,Morgan Park,75,1681,12.1
+Unemployment,2011-2015,O'Hare,76,958,8.4
+Unemployment,2011-2015,Edgewater,77,2812,8.2
+Unemployment,2006-2010,Rogers Park,1,2354,7.5
+Unemployment,2006-2010,West Ridge,2,2762,7.9
+Unemployment,2006-2010,Uptown,3,2717,7.7
+Unemployment,2006-2010,Lincoln Square,4,1759,6.8
+Unemployment,2006-2010,North Center,5,988,4.5
+Unemployment,2006-2010,Lakeview,6,3458,4.7
+Unemployment,2006-2010,Lincoln Park,7,1927,4.5
+Unemployment,2006-2010,Near North Side,8,2667,5.2
+Unemployment,2006-2010,Edison Park,9,483,7.6
+Unemployment,2006-2010,Norwood Park,10,1557,7.1
+Unemployment,2006-2010,Jefferson Park,11,1381,9.0
+Unemployment,2006-2010,Forest Glen,12,531,5.5
+Unemployment,2006-2010,North Park,13,681,7.5
+Unemployment,2006-2010,Albany Park,14,2620,9.0
+Unemployment,2006-2010,Portage Park,15,3789,10.6
+Unemployment,2006-2010,Irving Park,16,3332,10.3
+Unemployment,2006-2010,Dunning,17,2054,8.6
+Unemployment,2006-2010,Montclare,18,744,10.8
+Unemployment,2006-2010,Belmont Cragin,19,4659,11.5
+Unemployment,2006-2010,Hermosa,20,1605,12.9
+Unemployment,2006-2010,Avondale,21,2172,9.3
+Unemployment,2006-2010,Logan Square,22,3419,7.5
+Unemployment,2006-2010,Humboldt Park,23,2584,12.3
+Unemployment,2006-2010,West Town,24,3272,6.0
+Unemployment,2006-2010,Austin,25,9475,21.0
+Unemployment,2006-2010,West Garfield Park,26,1718,25.2
+Unemployment,2006-2010,East Garfield Park,27,1137,16.4
+Unemployment,2006-2010,Near West Side,28,3168,10.7
+Unemployment,2006-2010,North Lawndale,29,2237,18.5
+Unemployment,2006-2010,South Lawndale,30,3220,11.5
+Unemployment,2006-2010,Lower West Side,31,2420,13.0
+Unemployment,2006-2010,Loop,32,551,4.2
+Unemployment,2006-2010,Near South Side,33,714,5.7
+Unemployment,2006-2010,Armour Square,34,801,11.6
+Unemployment,2006-2010,Douglas,35,1622,16.7
+Unemployment,2006-2010,Oakland,36,727,26.6
+Unemployment,2006-2010,Fuller Park,37,487,40.0
+Unemployment,2006-2010,Grand Boulevard,38,2163,20.6
+Unemployment,2006-2010,Kenwood,39,1035,11.0
+Unemployment,2006-2010,Washington Park,40,1028,23.2
+Unemployment,2006-2010,Hyde Park,41,985,6.9
+Unemployment,2006-2010,Woodlawn,42,1944,17.3
+Unemployment,2006-2010,South Shore,43,4120,17.7
+Unemployment,2006-2010,Chatham,44,3234,19.0
+Unemployment,2006-2010,Avalon Park,45,813,16.6
+Unemployment,2006-2010,South Chicago,46,2332,17.7
+Unemployment,2006-2010,Burnside,47,334,23.4
+Unemployment,2006-2010,Calumet Heights,48,1208,17.2
+Unemployment,2006-2010,Roseland,49,3581,17.8
+Unemployment,2006-2010,Pullman,50,775,21.0
+Unemployment,2006-2010,South Deering,51,788,11.8
+Unemployment,2006-2010,East Side,52,1561,14.5
+Unemployment,2006-2010,West Pullman,53,2516,16.5
+Unemployment,2006-2010,Riverdale,54,495,26.4
+Unemployment,2006-2010,Hegewisch,55,486,9.6
+Unemployment,2006-2010,Garfield Ridge,56,1415,8.1
+Unemployment,2006-2010,Archer Heights,57,899,14.2
+Unemployment,2006-2010,Brighton Park,58,2287,11.2
+Unemployment,2006-2010,McKinley Park,59,966,11.9
+Unemployment,2006-2010,Bridgeport,60,2017,11.7
+Unemployment,2006-2010,New City,61,3165,17.4
+Unemployment,2006-2010,West Elsdon,62,1210,13.5
+Unemployment,2006-2010,Gage Park,63,2447,14.0
+Unemployment,2006-2010,Clearing,64,1225,9.6
+Unemployment,2006-2010,West Lawn,65,1094,7.8
+Unemployment,2006-2010,Chicago Lawn,66,2784,11.9
+Unemployment,2006-2010,West Englewood,67,5110,34.7
+Unemployment,2006-2010,Englewood,68,2370,21.3
+Unemployment,2006-2010,Greater Grand Crossing,69,2791,18.9
+Unemployment,2006-2010,Ashburn,70,1799,8.8
+Unemployment,2006-2010,Auburn Gresham,71,5556,24.2
+Unemployment,2006-2010,Beverly,72,904,7.8
+Unemployment,2006-2010,Washington Heights,73,2254,18.3
+Unemployment,2006-2010,Mount Greenwood,74,717,6.9
+Unemployment,2006-2010,Morgan Park,75,1854,13.3
+Unemployment,2006-2010,O'Hare,76,520,4.6
+Unemployment,2006-2010,Edgewater,77,3182,9.0
